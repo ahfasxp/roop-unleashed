@@ -101,7 +101,7 @@ def main():
 
     # Source and target images
     face_source = 'face-simon-robben.jpg'
-    target_image = 'face-elon.jpg'
+    target_image = 'avatar.png'
 
     # Verify source image
     if not os.path.exists(face_source):
